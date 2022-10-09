@@ -1,1 +1,2 @@
 # hasangokkaya
+! /assets/logo.gif

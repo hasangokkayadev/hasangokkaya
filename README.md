@@ -1,2 +1,2 @@
 # hasangokkaya
-! [logo] (/assets/logo.gif)
+! [logo] (https://github.com/hasangokkayadev/hasangokkaya/blob/master/assets/logo.gif)

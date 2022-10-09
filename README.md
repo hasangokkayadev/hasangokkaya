@@ -1,2 +1,3 @@
 # hasangokkaya
-https://github.com/hasangokkayadev/hasangokkaya/blob/master/main/assets/logo.gif
+
+![logo](https://user-images.githubusercontent.com/87935249/194741832-44b28223-cbea-453a-98fa-87d614bd22fc.gif)
